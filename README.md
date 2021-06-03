@@ -7,22 +7,17 @@
 - You Won'T Have A Lot Of Instruction, You Are Free To Implement It The Way That You Want.
 - The Objective Is Simple: Have A Fully Functional Web Page That Looks The Same As The Designer File.
 
-
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
+----
 
 
-###Links
+### Links
 For this project, we have to create an account in Figma and open this project and “Duplicate to your Drafts” to have access to all design details.
 
 [Link of the Figma project](https://www.figma.com/file/gkWRcFqkwtruWZgSfnnHF0/Holberton-School---Headphone-company?node-id=0%3A1)
 
+----
 
 ###Images
-
 
 
 ![01_headphones_desktop@2x](https://user-images.githubusercontent.com/65988476/120688769-0934d680-c469-11eb-9a70-cc7189dea096.png)
@@ -51,7 +46,7 @@ For this project, we have to create an account in Figma and open this project an
 
 
                     
-###Tables
+### Description of folders and files
                     
 Type of file/folder | Description
 ------------- | -------------
@@ -63,4 +58,4 @@ Image | .png files favicon and images
 ----
 
 
-###End
+### End
