@@ -17,7 +17,7 @@ For this project, we have to create an account in Figma and open this project an
 
 ----
 
-###Images
+### Final views
 
 
 ![01_headphones_desktop@2x](https://user-images.githubusercontent.com/65988476/120688769-0934d680-c469-11eb-9a70-cc7189dea096.png)
